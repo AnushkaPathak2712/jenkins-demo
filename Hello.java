@@ -1,5 +1,5 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Updated code from GitHub");
+       System.out.println("Build triggered via ngrok webhook");
     }
 }
